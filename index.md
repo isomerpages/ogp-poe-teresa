@@ -40,7 +40,7 @@ sections:
           link_text: Google Maps
           link_url: https://maps.app.goo.gl/HN5eaNMAYikkVQbc6
   - textcards:
-      title: Text Cards
+      title: Highlights
       subtitle: food recommendations
       id: textcards
       description: Top 3 places to eat and drink at in Singapore
