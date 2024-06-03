@@ -22,23 +22,21 @@ sections:
           date: 01 June 2024
           announcement: |-
             Opening Hours: 11am - 10pm
-            Location: 28 Aliwal St, #01-07, Singapore 199918
-            Reservations: ask@tipo.sg
+            ; Location: 28 Aliwal St, #01-07, Singapore 199918
+            ; Reservations: ask@tipo.sg
           link_text: Google Maps
           link_url: https://maps.app.goo.gl/fwYbYPQ5c57yfLQr7
         - title: Honbo
           date: 29 May 2024
-          announcement: "Opening Hours: 11am - 10pm; Location: 30 Victoria St, #01-09
+          announcement: "Opening Hours: 11am - 10pm; ; Location: 30 Victoria St, #01-09
             chijmes, Singapore 187996"
           link_text: Google Maps
           link_url: https://maps.app.goo.gl/zmJPNkbURmVpUjC29
         - title: Waa Cow
           date: 16 May 2024
           announcement: |-
-            Opening Hours: 11am - 10pm
-            Location: 1 Harborfront Walk
-            #01-188C, Singapore 098585
-            Reservations: res@waacow.sg
+            Opening Hours: 11am - 10pm; Location: 1 Harborfront Walk
+            #01-188C, Singapore 098585; Reservations: res@waacow.sg
           link_text: Google Maps
           link_url: https://maps.app.goo.gl/HN5eaNMAYikkVQbc6
   - textcards:
