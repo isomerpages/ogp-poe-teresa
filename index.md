@@ -8,10 +8,10 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Teresa
-      subtitle: "Hi, I'm Teresa, a Communications and New Media graduate from NUS with
-        an interest in creating and supporting digital products. "
-      background: /images/hero-banner.png
-      button: Contact Us
+      subtitle: Hi, I'm Teresa, a Communications and New Media graduate from NUS with
+        an interest in creating and supporting digital products.
+      background: /images/pink_ombre_gradient_blur_background_0509.jpg
+      button: Contact Me
       url: https://www.linkedin.com/in/teresatanyiqi/
       key_highlights:
         - title: Highlight A
