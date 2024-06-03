@@ -4,45 +4,45 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Teresa
-      subtitle: Hi, I'm Teresa, a Communications and New Media graduate from NUS with
-        an interest in creating and supporting digital products.
+      subtitle: Communications and New Media graduate with an interest in creating and
+        supporting digital products, and a background in product design.
       background: /images/pink_ombre_gradient_blur_background_0509.jpg
-      button: Contact Me
+      button: Contact Me!!
       url: https://www.linkedin.com/in/teresatanyiqi/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: food recommendations
+      subtitle: my latest food recommendations
       announcement_items:
         - title: Tipo Pasta Bar
           date: 01 June 2024
-          announcement: "28 Aliwal St, #01-07, Singapore 199918"
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 03 June 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 03 June 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: |-
+            Opening Hours: 11am - 10pm
+            Location: 28 Aliwal St, #01-07, Singapore 199918
+            Reservations: ask@tipo.sg
+          link_text: Google Maps
+          link_url: https://maps.app.goo.gl/fwYbYPQ5c57yfLQr7
+        - title: Honbo
+          date: 29 May 2024
+          announcement: |-
+            Opening Hours: 11am - 10pm
+            Location: 30 Victoria St, #01-09 chijmes, Singapore 187996
+            Reservations: res@honbo.sg
+          link_text: Google Maps
+          link_url: https://maps.app.goo.gl/zmJPNkbURmVpUjC29
+        - title: Waa Cow
+          date: 16 May 2024
+          announcement: |-
+            Opening Hours: 11am - 10pm
+            Location: 1 Harborfront Walk
+            #01-188C, Singapore 098585
+            Reservations: res@waacow.sg
+          link_text: Google Maps
+          link_url: https://maps.app.goo.gl/HN5eaNMAYikkVQbc6
   - textcards:
       title: Text Cards
       subtitle: food recommendations
