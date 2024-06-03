@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Best Chicken Rice in Singapore</h1>
-<p>Ranking</p>
+<h2>Ranking</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
