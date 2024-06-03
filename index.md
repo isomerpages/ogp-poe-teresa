@@ -28,10 +28,8 @@ sections:
           link_url: https://maps.app.goo.gl/fwYbYPQ5c57yfLQr7
         - title: Honbo
           date: 29 May 2024
-          announcement: |-
-            Opening Hours: 11am - 10pm
-            Location: 30 Victoria St, #01-09 chijmes, Singapore 187996
-            Reservations: res@honbo.sg
+          announcement: "Opening Hours: 11am - 10pm; Location: 30 Victoria St, #01-09
+            chijmes, Singapore 187996"
           link_text: Google Maps
           link_url: https://maps.app.goo.gl/zmJPNkbURmVpUjC29
         - title: Waa Cow
