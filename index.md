@@ -11,7 +11,7 @@ sections:
       subtitle: Communications and New Media graduate with an interest in creating and
         supporting digital products, and a background in product design.
       background: /images/pink_ombre_gradient_blur_background_0509.jpg
-      button: Contact Me!!
+      button: Contact Me
       url: https://www.linkedin.com/in/teresatanyiqi/
   - announcements:
       title: Announcements
