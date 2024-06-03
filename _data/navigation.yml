@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Speeches
     collection: speeches
+  - title: What It Means
+    url: /what-it-means
