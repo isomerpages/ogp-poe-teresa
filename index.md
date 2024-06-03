@@ -44,20 +44,21 @@ sections:
           link_url: ""
   - textcards:
       title: Text Cards
-      subtitle: Add informational text
+      subtitle: food recommendations
       id: textcards
-      description: Text card description
+      description: Top 3 best places to eat and drink at in Singapore
       cards:
-        - title: Card
-          description: Card description
+        - title: Zén
+          description: Zén is a 3 star Michelin restaurant located at 41 Bukit Pasoh Road.
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://g.co/kgs/dSFNsZD
+        - title: "Odette "
+          description: Odette is a 3 star Michelin French restaurant at the National
+            Gallery.
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://maps.app.goo.gl/PYnUP3QVbymv7giv7
+        - title: Restaurant Born
+          description: Restaurant Born is a 1 Star Michelin Contemporary restaurant.
           linktext: Learn more
-          url: ""
+          url: https://maps.app.goo.gl/RkRsjATpwWaK2JPRA
 ---
