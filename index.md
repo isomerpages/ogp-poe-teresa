@@ -7,8 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Teresa
+      subtitle: Hi, I'm Teresa, a Communications and New Media graduate from NUS with
+        an interest in creating and supporting digital products.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
