@@ -1,5 +1,4 @@
 collections:
   speeches:
     output: true
-    order:
-      - example-page.md
+    order: []
