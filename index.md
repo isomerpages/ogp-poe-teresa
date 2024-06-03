@@ -46,13 +46,13 @@ sections:
       title: Text Cards
       subtitle: food recommendations
       id: textcards
-      description: Top 3 best places to eat and drink at in Singapore
+      description: Top 3 places to eat and drink at in Singapore
       cards:
         - title: Zén
           description: Zén is a 3 star Michelin restaurant located at 41 Bukit Pasoh Road.
           linktext: Learn more
           url: https://g.co/kgs/dSFNsZD
-        - title: "Odette "
+        - title: Odette
           description: Odette is a 3 star Michelin French restaurant at the National
             Gallery.
           linktext: Learn more
